@@ -11,5 +11,7 @@ add_custom_command(
 
 add_executable (Main
     "main.cpp"
+    XType.h
+    XType.cpp
     raw
 )
