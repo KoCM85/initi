@@ -6,3 +6,5 @@
 !CMakeLists.txt
 !main.cpp
 !raw.bin
+!XType.h
+!XType.cpp
